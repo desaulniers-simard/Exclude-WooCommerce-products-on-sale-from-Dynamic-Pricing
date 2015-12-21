@@ -1,0 +1,44 @@
+# Copyright (C) 2015 Exclude WooCommerce products on sale from Dynamic Pricing
+# This file is distributed under the same license as the Exclude WooCommerce products on sale from Dynamic Pricing package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Exclude WooCommerce products on sale from Dynamic Pricing 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-sales-products-not-dynamic\n"
+"POT-Creation-Date: 2015-12-21 20:27:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wc-sales-products-not-dynamic.php:26
+msgid "Missing Requirements"
+msgstr ""
+
+#: wc-sales-products-not-dynamic.php:28
+msgid "Exclude WooCommerce products on sale from Dynamic Pricing"
+msgstr ""
+
+#: wc-sales-products-not-dynamic.php:29
+msgid " can not be activated because it requires the WooCommerce and WooCommerce Dynamic Pricing plugins to be installed and activated."
+msgstr ""
+
+#: wc-sales-products-not-dynamic.php:30
+msgid "Go back"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Exclude WooCommerce products on sale from Dynamic Pricing"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Zero-configuration, zero-interface WordPress plugin that does a single thing: exclude WooCommerce products which are currently on sale from all additional rebates and discounts that would be applied to them by active Dynamic Pricing rules."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Desaulniers Simard"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://desaulniers-simard.com/"
+msgstr ""
